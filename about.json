@@ -1,0 +1,11 @@
+{
+    "bot_name": "TextRecognizerBot",
+    "description": "Бот распознаёт текст на изображениях и возвращает его в виде .txt файла.",
+    "authors": ["Ваше Имя"],
+    "functionality": "OCR изображений → .txt, ведение базы пользователей, PDF-отчёты.",
+    "commands": [
+      {"command": "/start", "description": "Начало работы"},
+      {"command": "/help", "description": "Справка"},
+      {"command": "/about", "description": "О боте"}
+    ]
+  }

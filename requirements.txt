@@ -1,0 +1,6 @@
+aiogram>=3.3
+opencv-python-headless
+pytesseract
+python-decouple
+python-dotenv
+reportlab
