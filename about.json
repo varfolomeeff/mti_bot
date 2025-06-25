@@ -1,7 +1,7 @@
 {
     "bot_name": "TextRecognizerBot",
     "description": "Бот распознаёт текст на изображениях и возвращает его в виде .txt файла.",
-    "authors": ["Ваше Имя"],
+    "authors": ["Захар Варфоломеев (@varfolomeefff"],
     "functionality": "OCR изображений → .txt, ведение базы пользователей, PDF-отчёты.",
     "commands": [
       {"command": "/start", "description": "Начало работы"},
